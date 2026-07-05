@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" rx="28" fill="#0f172a"/>
+  <rect x="120" y="140" width="560" height="320" rx="24" fill="#f8fafc"/>
+  <rect x="190" y="210" width="180" height="120" rx="18" fill="#2563eb"/>
+  <rect x="430" y="210" width="180" height="120" rx="18" fill="#60a5fa"/>
+  <path d="M270 270h120" stroke="#fff" stroke-width="12" stroke-linecap="round"/>
+  <path d="M400 270l35-35" stroke="#fff" stroke-width="12" stroke-linecap="round"/>
+  <path d="M400 270l35 35" stroke="#fff" stroke-width="12" stroke-linecap="round"/>
+  <text x="400" y="500" text-anchor="middle" font-family="Segoe UI, Arial" font-size="34" font-weight="700" fill="#f8fafc">Geçiş Kontrol</text>
+</svg>

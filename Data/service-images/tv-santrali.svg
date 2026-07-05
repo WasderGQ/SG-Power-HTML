@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" rx="28" fill="#0f766e"/>
+  <rect x="140" y="150" width="520" height="300" rx="24" fill="#f0fdfa"/>
+  <rect x="190" y="200" width="240" height="160" rx="16" fill="#0f172a"/>
+  <rect x="470" y="220" width="110" height="18" rx="9" fill="#475569"/>
+  <rect x="470" y="260" width="130" height="18" rx="9" fill="#475569"/>
+  <rect x="470" y="300" width="95" height="18" rx="9" fill="#475569"/>
+  <circle cx="310" cy="280" r="56" fill="#38bdf8"/>
+  <text x="400" y="500" text-anchor="middle" font-family="Segoe UI, Arial" font-size="34" font-weight="700" fill="#f0fdfa">TV Santrali</text>
+</svg>
