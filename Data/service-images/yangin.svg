@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" rx="28" fill="#24140d"/>
+  <rect x="120" y="120" width="560" height="360" rx="24" fill="#fff6f0"/>
+  <path d="M400 180c-90 115-140 190-140 250 0 80 60 120 140 120 80 0 140-40 140-120 0-60-50-135-140-250z" fill="#ff7043"/>
+  <path d="M360 260h80v110h-80z" fill="#fff"/>
+  <path d="M350 250l100-60" stroke="#fff" stroke-width="14" stroke-linecap="round"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Segoe UI, Arial" font-size="34" font-weight="700" fill="#fff6f0">Yangın Güvenliği</text>
+</svg>

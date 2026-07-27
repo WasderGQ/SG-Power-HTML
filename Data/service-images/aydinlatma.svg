@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" rx="28" fill="#14213d"/>
+  <rect x="140" y="150" width="520" height="300" rx="24" fill="#fefce8"/>
+  <path d="M400 220c-48 0-88 40-88 88 0 42 30 77 70 86v38h36v-38c40-9 70-44 70-86 0-48-40-88-88-88z" fill="#facc15"/>
+  <rect x="320" y="430" width="160" height="16" rx="8" fill="#f59e0b"/>
+  <text x="400" y="500" text-anchor="middle" font-family="Segoe UI, Arial" font-size="34" font-weight="700" fill="#fefce8">Aydınlatma</text>
+</svg>
